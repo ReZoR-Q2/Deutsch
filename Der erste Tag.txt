@@ -1,0 +1,18 @@
+ich - я  (их)
+du  - ты (ду)
+wir - мы (виа)
+ihr - вы (иа)
+er  - он (иа)
+sie - она(зи)
+es  - оно(эс)
+sie - они(зи)
+Sie - Вы (зи)
+
+ich-bin (я)
+du-bist (ты)
+er/sie/es-ist (он,она,оно)
+wir-sind (мы)
+ihr-seid (вы)
+sie/Sie-sind (они, ВЫ)
+
+wer - кто? (веа)
