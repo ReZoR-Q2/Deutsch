@@ -1,3 +1,22 @@
+
+
+
+sch [ш] tsch [чь] st [шт] в начале слова в конце [ст]
+sp [шп] в начале слова в конце [сп]
+ph [f] 
+rh [r] Rhein
+th dt [t] thema, stadt
+tz ts [ts] Satz, Tsunami
+ss [s] Fluss(река) wissen(знать)
+ng [n(г)] jung(молодой) Singen(петь)
+nk [n(k)] danke, trinken(пить)
+ck [k] Gluck(счастье) Jacke(куртка)
+qu [kv] Quelle(источник) Aquarium
+
+ch [5] Buch(книга) ich(я) sechs(шесть) Chef(шеф) checken(проверять)
+
+
+
 ich - я  (их)
 du  - ты (ду)
 wir - мы (виа)
